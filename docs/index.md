@@ -1,4 +1,4 @@
-![Power BI portfolio – CoffeeSales & Upskill](https://kovacsjozsef2111.github.io/PowerBI_Projects/social-preview1.png)
+![Power BI portfolio – CoffeeSales & Upskill](https://kovacsjozsef2111.github.io/PowerBI_Projects/Social-preview2.png)
 
 # Power BI Projects (View-only)
 
