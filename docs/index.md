@@ -1,3 +1,4 @@
+![Power BI portfolio – CoffeeSales & Upskill](social-preview1.png)
 # Power BI Projects (View-only)
 
 Az alábbi linkek a GitHubon nyitják meg a fájlokat (PDF böngészőben megnyílik, DOCX letöltődik).
