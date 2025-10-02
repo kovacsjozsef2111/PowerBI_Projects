@@ -1,3 +1,4 @@
+---
 title: Power BI Projects – Portfolio
 ---
 
@@ -13,8 +14,7 @@ title: Power BI Projects – Portfolio
 
 # Power BI Projects (View-only)
 
-Ez az oldal a GitHub repóm könnyen böngészhető **portfólió-nyitóoldala**.  
-A fájlok **megtekinthetők böngészőben** (PDF/PNG), adat és DAX nélkül.
+Ez az oldal a portfólió **nyitóoldala**. A PDF-ek és képek **GitHubon nyílnak meg** (böngészőben, letöltés nélkül).
 
 <div class="grid">
 
@@ -22,10 +22,10 @@ A fájlok **megtekinthetők böngészőben** (PDF/PNG), adat és DAX nélkül.
 <h3>CoffeeSales — Investor Decision Support</h3>
 <p>Kérdőíves felmérés a kávézási szokásokról. Cél: befektetői döntéstámogatás új üzletnyitáshoz (árazás, választék, célpiac, lokáció).</p>
 <div class="btns">
-  <a class="btn primary" href="../projects/CoffeeSales/docs/one-pager.pdf">One-Pager PDF</a>
-  <a class="btn muted" href="../projects/CoffeeSales/PDF/CoffeeSales_Report.pdf">Report PDF</a>
-  <a class="btn" href="../projects/CoffeeSales/screenshots/">Screenshots</a>
-  <a class="btn" href="https://github.com/kovacsjozsef2111/PowerBI_Projects/tree/main/Projects/CoffeeSales">GitHub mappa</a>
+  <a class="btn primary" href="https://github.com/kovacsjozsef2111/PowerBI_Projects/blob/main/projects/CoffeeSales/docs/one-pager.pdf">One-Pager PDF</a>
+  <a class="btn muted" href="https://github.com/kovacsjozsef2111/PowerBI_Projects/blob/main/projects/CoffeeSales/PDF/CoffeeSales_Report.pdf">Report PDF</a>
+  <a class="btn" href="https://github.com/kovacsjozsef2111/PowerBI_Projects/tree/main/projects/CoffeeSales/screenshots">Screenshots</a>
+  <a class="btn" href="https://github.com/kovacsjozsef2111/PowerBI_Projects/tree/main/projects/CoffeeSales">GitHub mappa</a>
 </div>
 </div>
 
@@ -33,10 +33,10 @@ A fájlok **megtekinthetők böngészőben** (PDF/PNG), adat és DAX nélkül.
 <h3>Upskill — Sales Performance Analytics</h3>
 <p>Értékesítési teljesítmény elemzés: trendek, top értékesítők, profitábilis termékek, lemaradók.</p>
 <div class="btns">
-  <a class="btn primary" href="../projects/Upskill/docs/one-pager.pdf">One-Pager PDF</a>
-  <a class="btn muted" href="../projects/Upskill/PDF/Upskill_Report.pdf">Report PDF</a>
-  <a class="btn" href="../projects/Upskill/screenshots/">Screenshots</a>
-  <a class="btn" href="https://github.com/kovacsjozsef2111/PowerBI_Projects/tree/main/Projects/Upskill">GitHub mappa</a>
+  <a class="btn primary" href="https://github.com/kovacsjozsef2111/PowerBI_Projects/blob/main/projects/Upskill/docs/one-pager.pdf">One-Pager PDF</a>
+  <a class="btn muted" href="https://github.com/kovacsjozsef2111/PowerBI_Projects/blob/main/projects/Upskill/PDF/Upskill_Report.pdf">Report PDF</a>
+  <a class="btn" href="https://github.com/kovacsjozsef2111/PowerBI_Projects/tree/main/projects/Upskill/screenshots">Screenshots</a>
+  <a class="btn" href="https://github.com/kovacsjozsef2111/PowerBI_Projects/tree/main/projects/Upskill">GitHub mappa</a>
 </div>
 </div>
 
