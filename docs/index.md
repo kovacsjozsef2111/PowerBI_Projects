@@ -22,9 +22,9 @@ A fájlok **megtekinthetők böngészőben** (PDF/PNG), adat és DAX nélkül.
 <h3>CoffeeSales — Investor Decision Support</h3>
 <p>Kérdőíves felmérés a kávézási szokásokról. Cél: befektetői döntéstámogatás új üzletnyitáshoz (árazás, választék, célpiac, lokáció).</p>
 <div class="btns">
-  <a class="btn primary" href="../Projects/CoffeeSales/docs/one-pager.pdf">One-Pager PDF</a>
-  <a class="btn muted" href="../Projects/CoffeeSales/PDF/CoffeeSales_Report.pdf">Report PDF</a>
-  <a class="btn" href="../Projects/CoffeeSales/screenshots/">Screenshots</a>
+  <a class="btn primary" href="../projects/CoffeeSales/docs/one-pager.pdf">One-Pager PDF</a>
+  <a class="btn muted" href="../projects/CoffeeSales/PDF/CoffeeSales_Report.pdf">Report PDF</a>
+  <a class="btn" href="../projects/CoffeeSales/screenshots/">Screenshots</a>
   <a class="btn" href="https://github.com/kovacsjozsef2111/PowerBI_Projects/tree/main/Projects/CoffeeSales">GitHub mappa</a>
 </div>
 </div>
@@ -33,9 +33,9 @@ A fájlok **megtekinthetők böngészőben** (PDF/PNG), adat és DAX nélkül.
 <h3>Upskill — Sales Performance Analytics</h3>
 <p>Értékesítési teljesítmény elemzés: trendek, top értékesítők, profitábilis termékek, lemaradók.</p>
 <div class="btns">
-  <a class="btn primary" href="../Projects/Upskill/docs/one-pager.pdf">One-Pager PDF</a>
-  <a class="btn muted" href="../Projects/Upskill/PDF/Upskill_Report.pdf">Report PDF</a>
-  <a class="btn" href="../Projects/Upskill/screenshots/">Screenshots</a>
+  <a class="btn primary" href="../projects/Upskill/docs/one-pager.pdf">One-Pager PDF</a>
+  <a class="btn muted" href="../projects/Upskill/PDF/Upskill_Report.pdf">Report PDF</a>
+  <a class="btn" href="../projects/Upskill/screenshots/">Screenshots</a>
   <a class="btn" href="https://github.com/kovacsjozsef2111/PowerBI_Projects/tree/main/Projects/Upskill">GitHub mappa</a>
 </div>
 </div>
